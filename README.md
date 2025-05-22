@@ -21,3 +21,5 @@ Using language keys (`de`, `en`, etc.) as top-level namespaces sets the foundati
 > **Proper localization starts with structured, semantically aligned, and isolated content. Anything else leads to brittle, unscalable implementations.**
 
 This approach enables reliable translation switching, easier content updates.
+
+Demo: https://jakuzzibubbles.github.io/portfolio-website/
