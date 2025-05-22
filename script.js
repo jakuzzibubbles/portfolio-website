@@ -183,8 +183,8 @@ const translations = {
     rates: {
       title: "Konditionen",
       list: [
-        "<strong>Stundensatz:</strong> ab 90 €",
-        "<strong>Tagessatz:</strong> ab 700 €",
+        "<strong>Stundensatz:</strong> ab 69 €",
+        "<strong>Tagessatz:</strong> ab 500 €",
         "Projektlaufzeit: ab 2 Monaten",
       ],
     },
@@ -361,8 +361,8 @@ const translations = {
     rates: {
       title: "Rates",
       list: [
-        "<strong>Hourly rate:</strong> from €90",
-        "<strong>Daily rate:</strong> from €700",
+        "<strong>Hourly rate:</strong> from €69",
+        "<strong>Daily rate:</strong> from €500",
         "Project duration: from 2 months",
       ],
     },
