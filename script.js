@@ -6,13 +6,13 @@ document.addEventListener('DOMContentLoaded', function() {
         if (darkModeToggle.checked) {
             modeIcon.textContent = '🌙';
         } else {
-            modeIcon.textContent = '🌞';
+            modeIcon.textContent = "☀️";
         }
     }
 
     darkModeToggle.addEventListener('change', updateModeIcon);
 
-    // Initial Icon setzen
+    // Initial Icon
     updateModeIcon();
 });
 
@@ -397,7 +397,7 @@ const translations = {
   },
 };
 
-let currentLang = "de"; // oder "en" als Startsprache
+let currentLang = "de";
 
 function setLanguage(lang) {
   currentLang = lang;
@@ -494,7 +494,6 @@ function setLanguage(lang) {
   langSwitcher.textContent = lang === "de" ? "EN" : "DE";
 }
 
-// Initial setzen
 setLanguage(currentLang);
 
 langSwitcher.addEventListener("click", function () {
