@@ -28,7 +28,7 @@ const translations = {
     darkMode: "Dark Mode",
     about: {
       title: "Über mich",
-      p1: "Ich bin Linh, Projektmanagerin mit mehr als drei Jahren Erfahrung in der Umsetzung digitaler Projekte – von Online-Marketing über E-Commerce bis hin zur Softwareentwicklung.",
+      p1: "Ich bin Linh, Projektmanagerin mit mehr als fünf Jahren Erfahrung in der Umsetzung digitaler Projekte – von Online-Marketing über E-Commerce bis hin zur Softwareentwicklung.",
       p2: "Ich liebe es, Struktur in komplexe Vorhaben zu bringen, technische Teams und Stakeholder auf gemeinsame Ziele einzuschwören und Projekte von der Idee bis zur Umsetzung effizient zu steuern.",
       p3: "Meine Wurzeln liegen im Projektmanagement – doch mein Weg führte mich weiter: Durch meine Begeisterung für Technologie habe ich mich tiefer in Themen wie Cloud Computing (AWS), Linux, Webentwicklung und automatisierte Prozesse eingearbeitet. Das hat meinen Blick erweitert – ich verstehe nun nicht nur, was umgesetzt werden muss, sondern auch, wie.",
     },
@@ -206,7 +206,7 @@ const translations = {
     darkMode: "Dark Mode",
     about: {
       title: "About Me",
-      p1: "I'm Linh, a project manager with more than three years of experience in delivering digital projects – from online marketing and e-commerce to software development.",
+      p1: "I'm Linh, a project manager with more than five years of experience in delivering digital projects – from online marketing and e-commerce to software development.",
       p2: "I love bringing structure to complex endeavors, aligning technical teams and stakeholders to common goals, and efficiently managing projects from idea to implementation.",
       p3: "My roots are in project management – but my path led me further: My enthusiasm for technology drove me deeper into topics like cloud computing (AWS), Linux, web development, and automated processes. This broadened my perspective – now I understand not only what needs to be done, but also how.",
     },
