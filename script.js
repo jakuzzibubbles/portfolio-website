@@ -1,5 +1,21 @@
-// Dark Mode Toggle
-const darkModeToggle = document.getElementById("darkModeToggle");
+document.addEventListener('DOMContentLoaded', function() {
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    const modeIcon = document.getElementById('modeIcon');
+
+    function updateModeIcon() {
+        if (darkModeToggle.checked) {
+            modeIcon.textContent = '🌙';
+        } else {
+            modeIcon.textContent = '🌞';
+        }
+    }
+
+    darkModeToggle.addEventListener('change', updateModeIcon);
+
+    // Initial Icon setzen
+    updateModeIcon();
+});
+
 const body = document.body;
 
 // Check for saved user preference
@@ -473,7 +489,6 @@ function setLanguage(lang) {
 
   // HEADER
   document.querySelector("header h1").textContent = translations[lang].pageTitle;
-  document.querySelector(".toggle-label").textContent = translations[lang].darkMode;
 
   // BUTTON
   langSwitcher.textContent = lang === "de" ? "EN" : "DE";
