@@ -46,7 +46,7 @@ const translations = {
       title: "Über mich",
       p1: "Ich bin Linh, Projektmanagerin mit mehr als fünf Jahren Erfahrung in der Umsetzung digitaler Projekte – von Online-Marketing über E-Commerce bis hin zur Softwareentwicklung.",
       p2: "Ich liebe es, Struktur in komplexe Vorhaben zu bringen, technische Teams und Stakeholder auf gemeinsame Ziele einzuschwören und Projekte von der Idee bis zur Umsetzung effizient zu steuern.",
-      p3: "Meine Wurzeln liegen im Projektmanagement – doch mein Weg führte mich weiter: Durch meine Begeisterung für Technologie habe ich mich tiefer in Themen wie Cloud Computing (AWS), Linux, Webentwicklung und automatisierte Prozesse eingearbeitet. Das hat meinen Blick erweitert – ich verstehe nun nicht nur, was umgesetzt werden muss, sondern auch, wie.",
+      p3: "Meine Wurzeln liegen im Projektmanagement – doch mein Weg führte mich weiter: Durch meine Neugier für Technologie habe ich mich tiefer in Themen wie Cloud Computing (AWS), Linux, Webentwicklung und automatisierte Prozesse eingearbeitet. Das hat meinen Blick erweitert – ich verstehe nun nicht nur, was umgesetzt werden muss, sondern auch, wie.",
     },
     services: {
       title: "Meine Leistungen im Überblick",
