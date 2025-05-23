@@ -4,9 +4,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function updateModeIcon() {
         if (darkModeToggle.checked) {
-            modeIcon.textContent = '🌙';
+            modeIcon.textContent = '☀️';
         } else {
-            modeIcon.textContent = "☀️";
+            modeIcon.textContent = "🌙";
         }
     }
 
@@ -212,7 +212,7 @@ const translations = {
     contactInfo: {
       name: "<strong>Name:</strong><br>Linh Nguyen",
       email: "<strong>E-Mail:</strong><br><a href=\"mailto:linh_nguyen@gmx.de\">linh_nguyen@gmx.de</a>",
-      linkedin: "<strong>LinkedIn:</strong><br><a href=\"https://www.linkedin.com/in/jakuzzi263/\" target=\"_blank\" rel=\"noopener\">linkedin.com/in/jakuzzi263</a>",
+      linkedin: "<strong>LinkedIn:</strong><br><a href=\"https://www.linkedin.com/in/jakuzzibubbles/\" target=\"_blank\" rel=\"noopener\">linkedin.com/in/jakuzzibubbles</a>",
       github: "<strong>Github:</strong><br><a href=\"https://github.com/jakuzzibubbles\" target=\"_blank\" rel=\"noopener\">github.com/jakuzzibubbles</a>",
       location: "<strong>Standort:</strong><br>Berlin / Remote verfügbar",
     },
@@ -390,7 +390,7 @@ const translations = {
     contactInfo: {
       name: "<strong>Name:</strong><br>Linh Nguyen",
       email: "<strong>Email:</strong><br><a href=\"mailto:linh_nguyen@gmx.de\">linh_nguyen@gmx.de</a>",
-      linkedin: "<strong>LinkedIn:</strong><br><a href=\"https://www.linkedin.com/in/jakuzzi263/\" target=\"_blank\" rel=\"noopener\">linkedin.com/in/jakuzzi263</a>",
+      linkedin: "<strong>LinkedIn:</strong><br><a href=\"https://www.linkedin.com/in/jakuzzibubbles/\" target=\"_blank\" rel=\"noopener\">linkedin.com/in/jakuzzibubbles</a>",
       github: "<strong>Github:</strong><br><a href=\"https://github.com/jakuzzibubbles\" target=\"_blank\" rel=\"noopener\">github.com/jakuzzibubbles</a>",
       location: "<strong>Location:</strong><br>Berlin / available remote",
     },
