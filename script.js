@@ -97,7 +97,7 @@ const translations = {
         ],
       },
       result:
-        "Meine Arbeitsweise sorgt dafür, dass neue Projekte schnell anlaufen, bestehende Projekte wieder Struktur bekommen, und alle Beteiligten wissen, wo sie stehen und wohin es geht.",
+        "Diese Arbeitsweise sorgt dafür, dass neue Projekte schnell anlaufen, bestehende Projekte wieder Struktur bekommen, und alle Beteiligten wissen, wo sie stehen und wohin es geht.",
     },
     optimization: {
       title: "Prozessoptimierung – pragmatisch, datenbasiert, teamnah",
