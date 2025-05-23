@@ -97,7 +97,7 @@ const translations = {
         ],
       },
       result:
-        "<strong>Ergebnis:</strong> Meine Arbeitsweise sorgt dafür, dass neue Projekte schnell anlaufen, bestehende Projekte wieder Struktur bekommen, und alle Beteiligten wissen, wo sie stehen und wohin es geht.",
+        "Meine Arbeitsweise sorgt dafür, dass neue Projekte schnell anlaufen, bestehende Projekte wieder Struktur bekommen, und alle Beteiligten wissen, wo sie stehen und wohin es geht.",
     },
     optimization: {
       title: "Prozessoptimierung – pragmatisch, datenbasiert, teamnah",
@@ -152,7 +152,7 @@ const translations = {
         },
       ],
       result:
-        "<strong>Ergebnis:</strong> Die optimierten Prozesse sind transparenter, effizienter und besser auf eure Ziele abgestimmt – und das Team steht dahinter.",
+        "Die optimierten Prozesse sind transparenter, effizienter und besser auf eure Ziele abgestimmt – und das Team steht dahinter.",
     },
     experience: {
       title: "Erfahrung & Technisches Profil",
@@ -275,7 +275,7 @@ const translations = {
         ],
       },
       result:
-        "<strong>Result:</strong> My way of working ensures that new projects get off to a quick start, existing projects regain structure, and everyone involved knows where they stand and where they're going.",
+        "This way of working ensures that new projects get off to a quick start, existing projects regain structure, and everyone involved knows where they stand and where they're going.",
     },
     optimization: {
       title: "Process Optimization – Pragmatic, Data-Driven, Team-Oriented",
@@ -330,7 +330,7 @@ const translations = {
         },
       ],
       result:
-        "<strong>Result:</strong> The optimized processes are more transparent, efficient and better aligned with your goals – and the team is on board.",
+        "The optimized processes are more transparent, efficient and better aligned with your goals – and the team is on board.",
     },
     experience: {
       title: "Experience & Technical Profile",
