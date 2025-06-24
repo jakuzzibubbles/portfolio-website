@@ -186,9 +186,9 @@ const translations = {
     certifications: {
       title: "Zertifizierungen",
       list: [
-        "✓ AWS Certified Cloud Practitioner (2024)",
-        "✓ Linux Essentials – LPI (2024)",
-        "✓ Projektmanagement mit Scrum – IBB (2021)",
+        "AWS Certified Cloud Practitioner (2024)",
+        "Linux Essentials – LPI (2024)",
+        "Projektmanagement mit Scrum – IBB (2021)",
       ],
     },
     collaboration: {
@@ -364,9 +364,9 @@ const translations = {
     certifications: {
       title: "Certifications",
       list: [
-        "✓ AWS Certified Cloud Practitioner (2024)",
-        "✓ Linux Essentials – LPI (2024)",
-        "✓ Project Management with Scrum – IBB (2021)",
+        "AWS Certified Cloud Practitioner (2024)",
+        "Linux Essentials – LPI (2024)",
+        "Project Management with Scrum – IBB (2021)",
       ],
     },
     collaboration: {
